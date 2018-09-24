@@ -1,2 +1,4 @@
 # arch-protein-gene
 Effect of architectural proteins on gene expression regulation
+
+Understanding the folding of the human genome is fundamental to investigating gene expression regulation during development. As such, architectural proteins such as CTCF, Mediator and Cohesin coordinate higher-order chromatin organization through the formation of interactions between regulatory elements across multiple spatial scales. In this study, an epigenetic RNA-seq dataset, with conditional knockouts for CTCF, Mediator and Cohesin in wild-type mouse embryonic stem (ES) cells, was studied to investigate gene expression regulation in the absence of key mediators. Consistent with the hypothesis, statistical testing revealed that gene expression was found to decrease for all knockout replicates and was consistent with evidence provided from previous studies.
